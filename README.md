@@ -6,8 +6,8 @@ Este proyecto tiene como objetivo analizar los datos de ventas de cuatro tiendas
 ## Estructura del proyecto
 /python-challenge-de-alura
 │
-├── alurastorelatam-challenge-python.ipynb       # Notebook principal con todo el análisis y visualizaciones
-└── README.md                                     # Este archivo
+├── alurastorelatam-challenge-python.ipynb
+└── README.md 
 
 ## Ejemplos de gráficos e insights
 
