@@ -1,19 +1,24 @@
 # Python Challenge de Alura
+## Análisis de Ventas por Tienda
 
-# Análisis de Ventas por Tienda
+Este proyecto tiene como objetivo analizar los datos de ventas de cuatro tiendas diferentes para ayudar al Sr. João a decidir en cuál de ellas debería vender sus productos, basándose en métricas como ingresos totales, productos más vendidos, categorías con mayores ventas, calificaciones promedio y costos de envío.
 
-Este proyecto en Python tiene como objetivo analizar los datos de ventas de diferentes tiendas para ayudar a determinar cuál es la más rentable para vender. Se calcula el ingreso total por tienda, las ventas por categoría, el costo de envío promedio, y se evalúan las calificaciones de los clientes para determinar cuál es la tienda más adecuada para operar.
+## Estructura del proyecto
+/python-challenge-de-alura
+│
+├── alurastorelatam-challenge-python.ipynb       # Notebook principal con todo el análisis y visualizaciones
+└── README.md                                     # Este archivo
 
-## Funcionalidades
+## Ejemplos de gráficos e insights
 
-- Cálculo de ingresos totales por tienda.
-- Análisis de ventas por categoría de productos.
-- Cálculo del costo de envío promedio por tienda.
-- Comparación de calificaciones de tiendas.
-- Análisis de los productos más y menos vendidos.
+- Gráficos de barras con el top 5 y bottom 5 productos más vendidos por tienda.
+- Comparativa de ingresos por tienda.
+- Promedio de calificaciones de clientes por tienda.
+- Costo de envío promedio por tienda.
+- Insight principal: La Tienda 1 fue la que generó más ingresos totales, pero la Tienda 3 tuvo una mejor calificación de clientes y un costo de envío más bajo, lo que podría influir en la decisión final.
 
-## Requisitos
-
-- Python 3.11.12
-- Pandas
-- Matplotlib
+## Instrucciones para ejecutar el notebook
+1. Abre el archivo alurastorelatam-challenge-python.ipynb en Google Colab u otra plataforma.
+2. Ejecuta todas las celdas una por una.
+3. Los datos se cargarán automáticamente desde GitHub mediante enlaces raw.
+4. Explora los gráficos e interpreta los resultados.
